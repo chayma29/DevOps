@@ -1,1 +1,2 @@
 "Hello RT5" 
+"DevOps est un ensemble de pratiques et d'outils, ainsi qu'une philosophie culturelle."
